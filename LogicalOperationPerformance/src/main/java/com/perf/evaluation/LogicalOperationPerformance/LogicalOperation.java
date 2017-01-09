@@ -19,6 +19,7 @@ public class LogicalOperation {
   private int maxCount = 500;
   
   public static void main(String[] args) {
+    
     int startRange1 = 2000;
     int startRange2 = 200000;
     int startRange3 = 10000000;
